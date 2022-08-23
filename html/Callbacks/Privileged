@@ -1,0 +1,7 @@
+<%INIT>
+
+my $menu = Menu;
+my $kpi = $menu->child( kpi => title => loc('Import'), path => 'index.html' );
+
+    
+ </%INIT>
